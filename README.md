@@ -1,6 +1,6 @@
 # Análise Estatística de Idade e Salário
 
-Este projeto em Python realiza uma análise estatística das variáveis `idade_anos (x)` e `salario (y)` a partir de um conjunto de dados previamente pré-processado. A seguir, explicamos detalhadamente cada resultado obtido.
+Este projeto em Python realiza uma análise estatística das variáveis `idade_anos (x)` e `salario (y)` a partir de um conjunto de dados previamente pré-processado `CompanhiaMB`. A seguir, explicamos detalhadamente cada resultado obtido.
 
 ## Estatísticas Descritivas
 
