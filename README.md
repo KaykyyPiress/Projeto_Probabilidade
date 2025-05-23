@@ -18,12 +18,14 @@ Este projeto em Python realiza uma análise estatística das variáveis `idade_a
 ![image](https://github.com/user-attachments/assets/14c96fd7-0abd-4df9-b010-0a9ddd548cb8)
 - **Histograma de idade (x)**: mostra a distribuição das idades, com maior frequência entre 30 e 35 anos.
 
+![image](https://github.com/user-attachments/assets/1047de74-2299-4f4d-8e1e-ad00baad3e21)
 - **Histograma de salário (y)**: exibe a distribuição salarial, concentrada entre R$7,50 e R$12,50.  
 
 Os histogramas ajudam a visualizar a forma geral da distribuição e identificar possíveis assimetrias.
 
 ## Boxplots
 
+![image](https://github.com/user-attachments/assets/4cef0a6c-eac0-4bb9-b93a-6983abd1814d)
 - **Boxplot de idade (x)**: mediana próxima a 35 anos, sem outliers significativos.
 
   ![image](https://github.com/user-attachments/assets/ce34379d-5e1c-45a9-a250-bfb38e560c3c)
