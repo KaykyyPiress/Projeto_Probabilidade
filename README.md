@@ -56,3 +56,8 @@ Como ambos os p-valores são maiores que 0.05, não rejeitamos a hipótese de no
 - **Salário (y)**: curva de densidade confirma a distribuição observada no histograma.  
 
 ---
+
+## Estudantes
+
+  - Kayky Pires de Paula: 22.222.040-2
+  - Rafael Dias Silva Costa: 22.222.039-4
