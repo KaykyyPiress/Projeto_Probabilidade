@@ -1,6 +1,6 @@
 # Análise Estatística de Idade e Salário
 
-Este projeto em Python realiza uma análise estatística das variáveis `idade_anos` e `salario` a partir de um conjunto de dados previamente pré-processado. A seguir, explicamos detalhadamente cada resultado obtido.
+Este projeto em Python realiza uma análise estatística das variáveis `idade_anos (x)` e `salario (y)` a partir de um conjunto de dados previamente pré-processado. A seguir, explicamos detalhadamente cada resultado obtido.
 
 ## Estatísticas Descritivas
 
@@ -49,16 +49,12 @@ Indica correlação moderada e positiva: idades maiores tendem a associar-se a s
 Como ambos os p-valores são maiores que 0.05, não rejeitamos a hipótese de normalidade para nenhuma das variáveis.
 
 ## Histogramas com Densidade
+![image](https://github.com/user-attachments/assets/80a356a7-bc69-446c-8c68-969d12ba7370)
+- **Idade (x)**: sobrepõe curva KDE ao histograma, reforçando a concentração na faixa intermediária.
 
-- **Idade (x)**: sobrepõe curva KDE ao histograma, reforçando a concentração na faixa intermediária.  
+  ![image](https://github.com/user-attachments/assets/cbcc97e1-fded-40d3-b7d2-00ece63ca5ef)
 - **Salário (y)**: curva de densidade confirma a distribuição observada no histograma.  
 
 Combinando histograma e densidade, obtemos uma visão mais suave da forma da distribuição.
 
 ---
-
-## Como Executar
-
-1. Instale as dependências:
-   ```bash
-   pip install pandas matplotlib scipy
